@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hassan Harera</title>
+  <desc id="desc">Software engineer. Backend, mobile, and developer tools. Cairo, Egypt.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102a2e"/><stop offset="1" stop-color="#07191d"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#72d4c2" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <g fill="none" stroke="#e8bb64" stroke-width="3" stroke-linecap="round" opacity=".35">
+    <path d="M850 90h45c65 0 45 120 110 120h115"/>
+    <path d="M850 150h45c65 0 45-60 110-60h115"/>
+    <path d="M850 210h45c65 0 45-60 110-60h115"/>
+  </g>
+  <text x="64" y="69" font-family="ui-monospace, monospace" font-size="13" letter-spacing="3" fill="#e8bb64">HHARERA / SOFTWARE ENGINEER</text>
+  <text x="60" y="151" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="58" font-weight="750" letter-spacing="-2" fill="#f5f8f6">Hassan Harera</text>
+  <text x="64" y="198" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" fill="#b5d3cc">Backend, mobile, and developer tools.</text>
+  <text x="64" y="254" font-family="ui-monospace, monospace" font-size="13" fill="#789b93">Cairo, Egypt · Building with clarity and purpose.</text>
+</svg>
